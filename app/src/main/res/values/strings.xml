@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Sport News API</string>
+    <string name="latest_headlines">Latest Headlines</string>
+    <string name="news_for_you">News for you</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="title_of_news">Title of News</string>
+    <string name="a_time_ago">a time ago</string>
+    <string name="_01_january_1990">01 January 1990</string>
+    <string name="error_title">Error Title</string>
+    <string name="error_message">Error Message</string>
+    <string name="ok">OK</string>
+
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="time">Time</string>
+    <string name="share">Share</string>
+    <string name="source">source</string>
+
+
+    <string name="empty_subject">Empty Subject</string>
+    <string name="empty_msg">Empty Message</string>
+
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="title_activity_ads_web">AdsWebActivity</string>
+    <string name="category">Category</string>
+    <string name="bookmark">Bookmarks</string>
+    <string name="there_are_no_bookmarks_at_the_moment">There are no bookmarks at the moment</string>
+    <string name="todo">TODO</string>
+    <string name="feedback">Feedback</string>
+
+    <string-array name="categories">
+        <item>Select sport</item>
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Tennis</item>
+        <item>Baseball</item>
+        <item>Box</item>
+        <item>Karate</item>
+        <item>Table Tennis</item>
+        <item>Cricket</item>
+        <item>KickBoxing</item>
+        <item>Formula 1</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="source_of_news">Source of News</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="search">Search</string>
+    <string name="title_activity_spinner">SpinnerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
